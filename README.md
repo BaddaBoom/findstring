@@ -4,7 +4,6 @@ A Bash script that will search through  directory of files for a specific string
 
 This uses simple \*nix commands to get a listing of files in the directory structure, and then read each file and search for the needle.
 
-### **About**
 ### **Usage**
 ./findstring \<File Type\> \<Input Directory\> "\<Search Term\>" \["hex"\]
 
